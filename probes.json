@@ -78,51 +78,93 @@
     "name": "SWCAU13"
   },
   {
-    "key": "san-francisco",
-    "latitude": 37.733795,
-    "longitude": -122.446747,
-    "name": "San Francisco"
+    "key": "SWCAU14",
+    "latitude": -12.201912714476,
+    "longitude": -38.969905106083,
+    "name": "SWCAU14"
   },
   {
-    "key": "seattle",
-    "latitude": 47.608013,
-    "longitude": -122.335167,
-    "name": "Seattle"
+    "key": "SWCAU21",
+    "latitude": -12.201617453570,
+    "longitude": -38.969492039360,
+    "name": "SWCAU21"
   },
   {
-    "key": "silicon-valley",
-    "latitude": 37.362517,
-    "longitude": -122.03476,
-    "name": "Silicon Valley"
+    "key": "SWCAU22",
+    "latitude": -12.201690718325,
+    "longitude": -38.969511177452,
+    "name": "SWCAU22"
   },
   {
-    "key": "singapore",
-    "latitude": 1.290270,
-    "longitude": 103.851959,
-    "name": "Singapore"
+    "key": "SWCAU23",
+    "latitude": -12.201541071477,
+    "longitude": -38.969640360761,
+    "name": "SWCAU23"
   },
   {
-    "key": "south-carolina",
-    "latitude": 33.836082,
-    "longitude": -81.163727,
-    "name": "South Carolina"
+    "key": "SWCAU24",
+    "latitude": -12.201743718618,
+    "longitude": -38.969716913383,
+    "name": "SWCAU24"
   },
   {
-    "key": "sydney",
-    "latitude": -33.865143,
-    "longitude": 151.209900,
-    "name": "Sydney"
+    "key": "SWCAU25",
+    "latitude": -12.201718777338,
+    "longitude": -38.969629196530,
+    "name": "SWCAU25"
   },
   {
-    "key": "taipei",
-    "latitude": 25.105497,
-    "longitude": 121.597366,
-    "name": "Taipei"
+    "key": "SWCAU31",
+    "latitude": -12.201179956295,
+    "longitude": -38.969166889085,
+    "name": "SWCAU31"
   },
   {
-    "key": "tokyo",
-    "latitude": 35.652832,
-    "longitude": 139.839478,
-    "name": "Tokyo"
+    "key": "SWCAU32",
+    "latitude": -12.201343090204,
+    "longitude": -38.969121780120,
+    "name": "SWCAU32"
+	},
+  {
+    "key": "SWCAU33",
+    "latitude": -12.201489607055,
+    "longitude": -38.969619073036,
+    "name": "SWCAU33"
+	},
+  {
+    "key": "SWCAU34",
+    "latitude": -12.201369544073,
+    "longitude": -38.969284173350,
+    "name": "SWCAU34"
+	},
+  {
+    "key": "SWCEB11",
+    "latitude": -12.197841304155,
+    "longitude": -38.969703515960,
+    "name": "SWCEB11"
+	},
+  {
+    "key": "SWCEB12",
+    "latitude": -12.197789398065,
+    "longitude": -38.969542304099,
+    "name": "SWCEB12"
+	},
+  {
+    "key": "SWCINDIO1",
+    "latitude": -12.202850602564,
+    "longitude": -38.967741529777,
+    "name": "SWCINDIO1"
+	},
+  {
+    "key": "SWCION61",
+    "latitude": -12.199983448069,
+    "longitude": -38.974384873277,
+    "name": "SWCION61"
+	},
+  {
+    "key": "SWCION62",
+    "latitude": -12.200035354114,
+    "longitude": -38.974525222063,
+    "name": "SWCION62"
   }
 ]
