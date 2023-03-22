@@ -523,8 +523,8 @@
 			},
   {
     "key": "SWMA62",
-    "latitude": -12.20152406700333,
-    "longitude": -38.973859850553616,
+    "latitude": -12.201294745188,
+    "longitude": -38.973221219799,
     "name": "SWMA62"
   		},
   {
@@ -579,7 +579,7 @@
     "key": "SWMP21",
     "latitude": -12.199841422450,
     "longitude": -38.970699311882,
-    "name": "SWMP21"
+    "name": "SWCION62"
 			},
   {
     "key": "SWMP22",
@@ -714,57 +714,280 @@
     "name": "SWMP74"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT11",
+    "latitude": -12.199499671547,
+    "longitude": -38.968989935966,
+    "name": "SWMT11"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT12",
+    "latitude": -12.199597878085,
+    "longitude": -38.968958038922,
+    "name": "SWMT12"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT13",
+    "latitude": -12.199666466752,
+    "longitude": -38.968929331576,
+    "name": "SWMT13"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT21",
+    "latitude": -12.200010146599,
+    "longitude": -38.970154538331,
+    "name": "SWMT21"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT22",
+    "latitude": -12.199985205195,
+    "longitude": -38.970085959762,
+    "name": "SWMT22"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT23",
+    "latitude": -12.199961822590,
+    "longitude": -38.970011001781,
+    "name": "SWMT23"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT24",
+    "latitude": -12.199919767249,
+    "longitude": -38.969904820454,
+    "name": "SWMT24"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"
+    "key": "SWMT25",
+    "latitude": -12.199784189071,
+    "longitude": -38.969947674117,
+    "name": "SWMT25"
 	  		},
   {
-    "key": "SWMP52",
-    "latitude": -12.200715402280,
-    "longitude": -38.973445383838,
-    "name": "SWMP52"	
-  }
+    "key": "SWMT26",
+    "latitude": -12.199801214063,
+    "longitude": -38.970052427925,
+    "name": "SWMT26"
+		  		},
+  {
+    "key": "SWMT27",
+    "latitude": -12.199847509075,
+    "longitude": -38.970180989120,
+    "name": "SWMT27"
+		  		},
+  {
+    "key": "SWMT31",
+    "latitude": -12.200236804771,
+    "longitude": -38.970900867209,
+    "name": "SWMT31"
+	
+		  		},
+  {
+    "key": "SWMT42",
+    "latitude": -12.200605083958,
+    "longitude": -38.971961638834,
+    "name": "SWMT42"		
+	},
+  {
+    "key": "SWMT43",
+    "latitude": -12.200991673136,
+    "longitude": -38.971846809521,
+    "name": "SWMT43"
+		  		},
+  {
+    "key": "SWMT44",
+    "latitude": -12.200482999150,
+    "longitude": -38.971873668329,
+    "name": "SWMT44"
+			  		},
+  {
+    "key": "SWMT45",
+    "latitude": -12.200387965097,
+    "longitude": -38.971889761593,
+    "name": "SWMT45"
+			  		},
+  {
+    "key": "SWMT46",
+    "latitude": -12.200433843586,
+    "longitude": -38.972021189816,
+    "name": "SWMT46"
+			  		},
+  {
+    "key": "SWMT47",
+    "latitude": -12.200475789571,
+    "longitude": -38.972153959229,
+    "name": "SWMT47"
+			  		},
+  {
+    "key": "SWMT51",
+    "latitude": -12.200846344522,
+    "longitude": -38.972826581749,
+    "name": "SWMT51"
+			  		},
+  {
+    "key": "SWMT52",
+    "latitude": -12.200908697549,
+    "longitude": -38.973056240355,
+    "name": "SWMT52"
+			  		},
+  {
+    "key": "SWMT61",
+    "latitude": -12.201125003427,
+    "longitude": -38.973762949715,
+    "name": "SWMT61"
+			  		},
+  {
+    "key": "SWMT71",
+    "latitude": -12.201458703472,
+    "longitude": -38.974732360922,
+    "name": "SWMT71"
+			  		},
+  {
+    "key": "SWMT72",
+    "latitude": -12.201508514299,
+    "longitude": -38.974858424831,
+    "name": "SWMT72"
+			  		},
+  {
+    "key": "SWMT73",
+    "latitude": -12.201560946703,
+    "longitude": -38.974976442159,
+    "name": "SWMT73"
+			  		},
+  {
+    "key": "SWMT74",
+    "latitude": -12.201322379187,
+    "longitude": -38.974769911915,
+    "name": "SWMT74"
+		},
+  {
+    "key": "SWMT75",
+    "latitude": -12.201382676463,
+    "longitude": -38.974954984389,
+    "name": "SWMT75"
+		},
+  {
+    "key": "SWPARFOR1",
+    "latitude": -12.202268163047,
+    "longitude": -38.968974685978,
+    "name": "SWPARFOR1"
+		},
+  {
+    "key": "SWPARFOR2",
+    "latitude": -12.202359919407,
+    "longitude": -38.968819117660,
+    "name": "SWPARFOR2"
+		},
+  {
+    "key": "SWPARFOR3",
+    "latitude": -12.202365162738,
+    "longitude": -38.969020283532,
+    "name": "SWPARFOR3"
+		},
+  {
+    "key": "SWPARFOR4",
+    "latitude": -12.202425459766,
+    "longitude": -38.968853986347,
+    "name": "SWPARFOR4"
+		},
+  {
+    "key": "SWPARFOR5",
+    "latitude": -12.202438567912,
+    "longitude": -38.969068563333,
+    "name": "SWPARFOR5"
+		},
+  {
+    "key": "SWPAT71",
+    "latitude": -12.200711541080,
+    "longitude": -38.974987170503,
+    "name": "SWPAT71"
+		},
+  {
+    "key": "SWPET11",
+    "latitude": -12.196536650935,
+    "longitude": -38.970370761375,
+    "name": "SWPET11"
+			},
+  {
+    "key": "SWPPGM51",
+    "latitude": -12.199000686281,
+    "longitude": -38.973700560245,
+    "name": "SWPPGM51"
+			},
+  {
+    "key": "SWPPGM52",
+    "latitude": -12.198935215129,
+    "longitude": -38.973706939657,
+    "name": "SWPPGM52"
+			},
+  {
+    "key": "SWPPGM53",
+    "latitude": -12.199038098385,
+    "longitude": -38.973786682079,
+    "name": "SWPPGM53"
+			},
+  {
+    "key": "SWPPGM54",
+    "latitude": -12.198869743978,
+    "longitude": -38.973860045100,
+    "name": "SWPPGM54"
+			},
+  {
+    "key": "SWPPGM55",
+    "latitude": -12.198891567682,
+    "longitude": -38.973907890549,
+    "name": "SWPPGM55"
+			},
+  {
+    "key": "SWRESI1",
+    "latitude": -12.202042575734,
+    "longitude": -38.966347526903,
+    "name": "SWRESI1"
+			},
+  {
+    "key": "SWSAU-CLTV61",
+    "latitude": -12.200220731483,
+    "longitude": -38.974900749753,
+    "name": "SWSAU-CLTV61"
+			},
+  {
+    "key": "SWSAU-CLTV62",
+    "latitude": -12.200072430058,
+    "longitude": -38.975534216635,
+    "name": "SWSAU-CLTV62"
+			},
+  {
+    "key": "SWSAU-CLTV63",
+    "latitude": -12.199931543332,
+    "longitude": -38.975462145559,
+    "name": "SWSAU-CLTV63"
+			},
+  {
+    "key": "SWSAU-CLTV64",
+    "latitude": -12.199935250813,
+    "longitude": -38.975579735106,
+    "name": "SWSAU-CLTV64"
+			},
+  {
+    "key": "SWSAU-CLTV65",
+    "latitude": -12.199790656524,
+    "longitude": -38.975500077616,
+    "name": "SWSAU-CLTV65"
+			},
+  {
+    "key": "SWSAU-CLTV66",
+    "latitude": -12.199816609275,
+    "longitude": -38.975613873925,
+    "name": "SWSAU-CLTV66"
+			},
+  {
+    "key": "SWSAU-CLTV67",
+    "latitude": -12.199842562164,
+    "longitude": -38.975541802946,
+    "name": "SWSAU-CLTV67"
+			},
+  {
+    "key": "SWZOO12",
+    "latitude": -12.198924217154,
+    "longitude": -38.968131548174,
+    "name": "SWZOO12"
+			}
 ]
