@@ -306,28 +306,189 @@
     "name": "SWLABIO16"
 		},
   {
-    "key": "SWCION62",
+    "key": "SWLABMEST21",
+    "latitude": -12.198675045961,
+    "longitude": -38.970342619752,
+    "name": "SWLABMEST21"
+		},
+  {
+    "key": "SWLABMEST22",
+    "latitude": -12.198864634291,
+    "longitude": -38.970879419157,
+    "name": "SWLABMEST22"
+		},
+  {
+    "key": "SWLABOFIS41",
+    "latitude": -12.199354535275,
+    "longitude": -38.972268195058,
+    "name": "SWLABOFIS41"
+		},
+  {
+    "key": "SWLABOFIS42",
+    "latitude": -12.199391238395,
+    "longitude": -38.972402305614,
+    "name": "SWLABOFIS42"
+			},
+  {
+    "key": "SWLABOFIS43",
+    "latitude": -12.199438428040,
+    "longitude": -38.972624929178,
+    "name": "SWLABOFIS43"
+		},
+  {
+    "key": "SWLABOFIS44",
+    "latitude": -12.199559023502,
+    "longitude": -38.972911926049,
+    "name": "SWLABOFIS44"
+		},
+  {
+    "key": "SWLABOFIS45",
+    "latitude": -12.199215588276,
+    "longitude": -38.972313792837,
+    "name": "SWLABOFIS45"
+		},
+  {
+    "key": "SWLABOFISGATO41",
+    "latitude": -12.199016343500,
+    "longitude": -38.972351343981,
+    "name": "SWLABOFISGATO41"
+			},
+  {
+    "key": "SWLABOTECI31",
+    "latitude": -12.199042919300,
+    "longitude": -38.971406567150,
+    "name": "SWLABOTECI31"
+		},
+  {
+    "key": "SWLABOTECI32",
+    "latitude": -12.198977959472,
+    "longitude": -38.971456426534,
+    "name": "SWLABOTECI32"
+		},
+  {
+    "key": "SWLABOTECII31",
+    "latitude": -12.198729329673,
+    "longitude": -38.972171125240,
+    "name": "SWLABOTECII31"
+		},
+  {
+    "key": "SWLABOTECII32",
     "latitude": -12.200035354114,
     "longitude": -38.974525222063,
-    "name": "SWCION62"
+    "name": "SWLABOTECII32"
+			},
+  {
+    "key": "SWLABOTECII33",
+    "latitude": -12.198623153250,
+    "longitude": -38.971839872323,
+    "name": "SWLABOTECII33"
+		},
+  {
+    "key": "SWLABOTECII34",
+    "latitude": -12.198548436280,
+    "longitude": -38.971652117798,
+    "name": "SWLABOTECII34"
+		},
+  {
+    "key": "SWLABOTECII35",
+    "latitude": -12.198485516520,
+    "longitude": -38.971450952240,
+    "name": "SWLABOTECII35"
+			},
+  {
+    "key": "SWLABOTECIII31",
+    "latitude": -12.198121302526,
+    "longitude": -38.971951930995,
+    "name": "SWLABOTECIII31"
+		},
+  {
+    "key": "SWLAPH11",
+    "latitude": -12.196117968241,
+    "longitude": -38.970043963798,
+    "name": "SWLAPH11"
+		},
+  {
+    "key": "SWLAPRON51",
+    "latitude": -12.199577454839,
+    "longitude": -38.974022719568,
+    "name": "SWLAPRON51"
+		},
+  {
+    "key": "SWMA11",
+    "latitude": -12.200045199413,
+    "longitude": -38.969128242774,
+    "name": "SWMA11"
+			},
+  {
+    "key": "SWMA12",
+    "latitude": -12.199992262978,
+    "longitude": -38.968950064363,
+    "name": "SWMA12"
+		},
+  {
+    "key": "SWMA21",
+    "latitude": -12.200282974010,
+    "longitude": -38.969923923165,
+    "name": "SWMA21"
+		},
+  {
+    "key": "SWMA22",
+    "latitude": -12.200347713199,
+    "longitude": -38.970062414345,
+    "name": "SWMA22"
+		},
+  {
+    "key": "SWMA31",
+    "latitude": -12.200644634605,
+    "longitude": -38.971046906074,
+    "name": "SWMA31"
+			},
+  {
+    "key": "SWMA32",
+    "latitude": -12.200629804441,
+    "longitude": -38.971001387446,
+    "name": "SWMA32"
+		},
+  {
+    "key": "SWMA33",
+    "latitude": -12.200620535585,
+    "longitude": -38.970957765429,
+    "name": "SWMA33"
+		},
+  {
+    "key": "SWMA34",
+    "latitude": -12.200598290319,
+    "longitude": -38.970898970552,
+    "name": "SWMA34"
+		},
+  {
+    "key": "SWMA35",
+    "latitude": -12.200405498077,
+    "longitude": -38.970933109526,
+    "name": "SWMA35"
+			},
+  {
+    "key": "SWMA41",
+    "latitude": -12.200866664728,
+    "longitude": -38.971869533781,
+    "name": "SWMA41"
+		},
+  {
+    "key": "SWMA42",
+    "latitude": -12.200779672798,
+    "longitude": -38.972066898985,
+    "name": "SWMA42"
+		},
+  {
+    "key": "SWMA43",
+    "latitude": -12.200991673136,
+    "longitude": -38.972245522399,
+    "name": "SWMA43"
 		},
   {
     "key": "SWCION62",
     "latitude": -12.200035354114,
     "longitude": -38.974525222063,
     "name": "SWCION62"
-		},
-  {
-    "key": "SWCION62",
-    "latitude": -12.200035354114,
-    "longitude": -38.974525222063,
-    "name": "SWCION62"
-		},
-  {
-    "key": "SWCION62",
-    "latitude": -12.200035354114,
-    "longitude": -38.974525222063,
-    "name": "SWCION62"
-	
   }
 ]
