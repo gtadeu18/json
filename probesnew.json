@@ -1,140 +1,140 @@
 [ 
  { 
     "key": "SWALMOX-CENTRAL1",
-    "latitude": -12202038857019,
-    "longitude": -38969305789010,
+    "latitude": -12.202038857019,
+    "longitude": -38.969305789010,
 "name": "SWALMOX-CENTRAL1"
   },
   { 
      "key": "SWALMOX-CENTRAL2",
-    "latitude": -12202100113620,
-    "longitude": -38969194686606,
+    "latitude": -12.202100113620,
+    "longitude": -38.969194686606,
 "name": "SWALMOX-CENTRAL2"
   },
   { 
      "key": "SWAUD-CENTRAL1",
-    "latitude": -12201080872463,
-    "longitude": -38968369193807,
+    "latitude": -12.201080872463,
+    "longitude": -38.968369193807,
 "name": "SWAUD-CENTRAL1"
   },
   { 
      "key": "SWAUD-CENTRALCAM21",
-    "latitude": -12201367815094,
-    "longitude": -38968279762569,
+    "latitude": -12.201367815094,
+    "longitude": -38.968279762569,
 "name": "SWAUD-CENTRALCAM21"
   },
   { 
      "key": "SWBIBPERI1",
-    "latitude": -12202062898016,
-    "longitude": -38971909287388,
+    "latitude": -12.202062898016,
+    "longitude": -38.971909287388,
     "name": "SWBIBPERI1"
   },
   { 
      "key": "SWBIBPERI2",
-    "latitude": -12202230142943,
-    "longitude": -38971850788075,
+    "latitude": -12.202230142943,
+    "longitude": -38.971850788075,
     "name": "SWBIBPERI2"
   },
   { 
      "key": "SWBIBPERI3",
-    "latitude": -12202395958372,
-    "longitude": -38971783513796,
+    "latitude": -12.202395958372,
+    "longitude": -38.971783513796,
     "name": "SWBIBPERI3"
   },
   {
       "key": "SWBIBPERI4",
-    "latitude": -12202546049927,
-    "longitude": -38971741101696,
+    "latitude": -12.202546049927,
+    "longitude": -38.971741101696,
     "name": "SWBIBPERI4"
   },
   { 
      "key": "SWBIBREF1",
-    "latitude": -12202222995264,
-    "longitude": -38972270521239,
+    "latitude": -12.202222995264,
+    "longitude": -38.972270521239,
     "name": "SWBIBREF1"
   {,
 } 
      "key": "SWBIOT11",
-    "latitude": -12197224880247,
-    "longitude": -38968740821865,
+    "latitude": -12.197224880247,
+    "longitude": -38.968740821865,
     "name": "SWBIOT11"
   },
   { 
      "key": "SWCAU11",
-    "latitude": -12201707138417,
-    "longitude": -38969996638959,
+    "latitude": -12.201707138417,
+    "longitude": -38.969996638959,
     "name": "SWCAU11"
   },
   { 
      "key": "SWCAU12",
-    "latitude": -12201770166236,
-    "longitude": -38969958706737,
+    "latitude": -12.201770166236,
+    "longitude": -38.969958706737,
     "name": "SWCAU12"
   },
   { 
      "key": "SWCAU13",
-    "latitude": -12201861000477,
-    "longitude": -38969926464273,
+    "latitude": -12.201861000477,
+    "longitude": -38.969926464273,
 "name": "SWCAU13"
   },
   { 
      "key": "SWCAU14",
-    "latitude": -12201912714476,
-    "longitude": -38969905106083,
+    "latitude": -12.201912714476,
+    "longitude": -38.969905106083,
     "name": "SWCAU14"
   },
   { 
      "key": "SWCAU21",
-    "latitude": -12201617453570,
-    "longitude": -38969492039360,
+    "latitude": -12.201617453570,
+    "longitude": -38.969492039360,
     "name": "SWCAU21"
   },
   { 
      "key": "SWCAU22",
-    "latitude": -12201690718325,
-    "longitude": -38969511177452,
+    "latitude": -12.201690718325,
+    "longitude": -38.969511177452,
     "name": "SWCAU22"
   },
   { 
      "key": "SWCAU23",
-    "latitude": -12201541071477,
-    "longitude": -38969640360761,
+    "latitude": -12.201541071477,
+    "longitude": -38.969640360761,
     "name": "SWCAU23"
   },
   { 
      "key": "SWCAU24",
-    "latitude": -12201743718618,
-    "longitude": -38969716913383,
+    "latitude": -12.201743718618,
+    "longitude": -38.969716913383,
     "name": "SWCAU24"
   },
   { 
      "key": "SWCAU25",
-    "latitude": -12201718777338,
-    "longitude": -38969629196530,
+    "latitude": -12.201718777338,
+    "longitude": -38.969629196530,
 "name": "SWCAU25"
   },
   { 
      "key": "SWCAU31",
-    "latitude": -12201179956295,
-    "longitude": -38969166889085,
+    "latitude": -12.201179956295,
+    "longitude": -38.969166889085,
     "name": "SWCAU31"
   },
   { 
      "key": "SWCAU32",
-    "latitude": -12201343090204,
-    "longitude": -38969121780120,
+    "latitude": -12.201343090204,
+    "longitude": -38.969121780120,
 "name": "SWCAU32"
   },
   { 
      "key": "SWCAU33",
-    "latitude": -12201489607055,
-    "longitude": -38969619073036,
+    "latitude": -12.201489607055,
+    "longitude": -38.969619073036,
      "name": "SWCAU33"
   },
   { 
      "key": "SWCAU34",
-    "latitude": -12201369544073,
-    "longitude": -38969284173350,
+    "latitude": -12.201369544073,
+    "longitude": -38.969284173350,
     "name": "SWCAU34"
   },
   { 
