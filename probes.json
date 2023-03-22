@@ -36,46 +36,46 @@
     "name": "swbibperi2"
   },
   {
-    "key": "los-angeles",
-    "latitude": 34.052235,
-    "longitude": -118.243683,
-    "name": "Los Angeles"
+    "key": "swbibperi3",
+    "latitude": -12.202395958372,
+    "longitude": -38.971783513796,
+    "name": "swbibperi3"
   },
   {
-    "key": "miami",
-    "latitude": 25.766430,
-    "longitude": -80.189888,
-    "name": "Miami"
+    "key": "swbibperi4",
+    "latitude": -12.202546049927,
+    "longitude": -38.971741101696,
+    "name": "swbibperi4"
   },
   {
-    "key": "new-jersey",
-    "latitude": 39.833851,
-    "longitude": -74.871826,
-    "name": "New Jersey"
+    "key": "swbibref1",
+    "latitude": -12.202222995264,
+    "longitude": -38.972270521239,
+    "name": "swbibref1"
   },
   {
-    "key": "new-york",
-    "latitude": 40.730610,
-    "longitude": -73.935242,
-    "name": "New York"
+    "key": "swbiot11",
+    "latitude": -12.197224880247,
+    "longitude": -38.968740821865,
+    "name": "swbiot11"
   },
   {
-    "key": "omaha",
-    "latitude": 41.257160,
-    "longitude": -95.995102,
-    "name": "Omaha"
+    "key": "swcau11",
+    "latitude": -12.201707138417,
+    "longitude": -38.969996638959,
+    "name": "swcau11"
   },
   {
-    "key": "paris",
-    "latitude": 48.864716,
-    "longitude": 2.349014,
-    "name": "Paris"
+    "key": "SWCAU12",
+    "latitude": -12.201770166236,
+    "longitude": -38.969958706737,
+    "name": "SWCAU12"
   },
   {
-    "key": "portland",
-    "latitude": 45.512794,
-    "longitude": -122.679565,
-    "name": "Portland"
+    "key": "SWCAU13",
+    "latitude": -12.201861000477,
+    "longitude": -38.969926464273,
+    "name": "SWCAU13"
   },
   {
     "key": "san-francisco",
